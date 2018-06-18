@@ -1,0 +1,56 @@
+body {
+  background-color: white;
+}
+
+.listTitle {
+  margin: 50px 0;
+  text-transform: uppercase;
+  color: #2c2c54;
+  margin-left: 600px;
+  font-family: "Roboto-Regular";
+  font-size: 45px;
+  font-weight: bold;
+  font-style: oblique;
+}
+
+.trackHolder {
+  width: 60%;
+  height: 200px;
+  font-family: "Roboto-Regular";
+  margin-left: 330px;
+  box-shadow: 0px 2px 5px 0px gray;
+  background-color: white;
+  margin-top: 25px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.imageHolder {
+  width: 180px;
+  height: 85%;
+  padding: 0px 25px;
+  border-right: 1px solid #ededed;
+}
+
+.descriptionHolder {
+
+}
+
+.trackTitle {
+  height: 150px;
+  padding-left: 15px;
+  font-size: 28px;
+}
+
+.playCount {
+  padding-left: 15px;
+}
+
+.artistName {
+  font-style: italic;
+}
+
+.fireIcon {
+  color: red;
+}
